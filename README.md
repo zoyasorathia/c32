@@ -1,2 +1,1 @@
-# c32
-c32
+# Project Template 26
